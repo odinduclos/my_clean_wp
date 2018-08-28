@@ -1,0 +1,1 @@
+<li id="search"><?php include(TEMPLATEPATH . '/searchform.php'); ?></li>
